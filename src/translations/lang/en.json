@@ -1060,6 +1060,8 @@
     "YOUR_NFTS": "Your NFTs",
     "TOTAL_VALUE": "Total Value: $value",
     "FLOOR": "Floor",
-    "VIEW_ON_OPENSEA": "View on OpenSea"
+    "VIEW_ON_OPENSEA": "View on OpenSea",
+    "POAP_NOTIFICATION_HEADER": "Claim your exclusive Halloween POAP now!",
+    "CLAIM_NOW": "Claim Now"
   }
 }
