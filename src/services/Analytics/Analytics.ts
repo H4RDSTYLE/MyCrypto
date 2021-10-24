@@ -38,7 +38,7 @@ const tracker = new MatomoTracker({
   linkTracking: false,
   configurations: {
     disableCookies: true,
-    setSecureCookie: true,
+    setSecureCookie: false,
     setRequestMethod: 'POST'
   }
 });
